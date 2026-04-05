@@ -1,0 +1,7 @@
+# Redis data
+*.rdb
+*.aof
+dump.rdb
+
+# Logs
+*.log
